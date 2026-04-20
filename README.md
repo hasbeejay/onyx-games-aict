@@ -1,4 +1,4 @@
-**Repository Name:** All-in-One Gaming Hub  
+**Repository Name:** Onyx Games
 
 **Description:**  
 Welcome to the **All-in-One Gaming Hub**! 🎮  
